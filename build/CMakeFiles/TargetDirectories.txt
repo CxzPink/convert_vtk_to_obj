@@ -1,0 +1,3 @@
+/mnt/g/wsl_ubuntu/cad/sidney/vtk_to_obj/build/CMakeFiles/rebuild_cache.dir
+/mnt/g/wsl_ubuntu/cad/sidney/vtk_to_obj/build/CMakeFiles/edit_cache.dir
+/mnt/g/wsl_ubuntu/cad/sidney/vtk_to_obj/build/CMakeFiles/MAIN.dir

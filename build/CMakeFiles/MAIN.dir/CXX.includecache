@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/g/wsl_ubuntu/cad/sidney/vtk_to_obj/inc/header.h
+string
+-
+vector
+-
+
+/mnt/g/wsl_ubuntu/cad/sidney/vtk_to_obj/src/main.cpp
+iostream
+-
+../inc/header.h
+/mnt/g/wsl_ubuntu/cad/sidney/vtk_to_obj/inc/header.h
+
+/mnt/g/wsl_ubuntu/cad/sidney/vtk_to_obj/src/vtk_obj.cpp
+fstream
+-
+sstream
+-
+../inc/header.h
+/mnt/g/wsl_ubuntu/cad/sidney/vtk_to_obj/inc/header.h
+
